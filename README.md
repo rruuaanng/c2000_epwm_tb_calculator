@@ -13,4 +13,4 @@ A *ePWM configure* calculator built with MATLAB App Designer. It's tailored for 
 4. Find it in your Apps list and start using it.
 
 ## APP Preview
-![alt text](image.png)
+![alt text](app.png)
